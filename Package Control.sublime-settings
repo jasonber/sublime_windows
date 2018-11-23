@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"anaconda_go",
+		"ConvertToUTF8",
+		"MarkdownEditing",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Theme - Brogrammer"
+	]
+}
